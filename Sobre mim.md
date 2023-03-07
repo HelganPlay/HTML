@@ -19,7 +19,7 @@
         <h2> O que gosto de fazer? </h2>
         <p> Jogar </p>
         <p> Tocar Vicoloncello </p>
-        <p>T reinar na academia </p>
+        <p> Treinar na academia </p>
         <p> Programar </p>
       </section>
       <section>
